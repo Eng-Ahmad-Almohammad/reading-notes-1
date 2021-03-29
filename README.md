@@ -22,4 +22,4 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 3. Orderd list
 4. Nested lists.
 5. Ignoring markdown formatting.
-6. 
+6. Using emojis.
