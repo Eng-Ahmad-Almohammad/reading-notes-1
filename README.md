@@ -1,5 +1,5 @@
 # reading-notes
-## Growth Mindset
+## Growth Mindset :brain:
 is when students understand that their abilities can be developed which mean that people are born with unique genetic structures, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents.
 
 -There are difference between Growth and fixed mindset
@@ -21,4 +21,5 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 2. Styling text(Bold style).
 3. Orderd list
 4. Nested lists.
-5. 
+5. Ignoring markdown formatting.
+6. 
