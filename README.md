@@ -1,6 +1,7 @@
 # reading-notes
 ## Growth Mindset
 is when students understand that their abilities can be developed which mean that people are born with unique genetic structures, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents.
+
 -There are difference between Growth and fixed mindset
 In \*growth mindset\*, people believe that their most basic abilities can be developed through dedication and hard work brains, but in \*fixed mindset\*, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. 
 
