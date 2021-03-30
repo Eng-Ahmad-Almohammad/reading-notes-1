@@ -114,6 +114,9 @@ echo "Hello World!";
 
 # [Read: 02a - Learning Markdown](https://rawankh98.github.io/reading-notes/read6)
 
+<hr>
+
+# [Read: 02b -  Revisions and the Cloud](https://rawankh98.github.io/reading-notes/read7)
 
 
 
