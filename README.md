@@ -27,6 +27,7 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 
 <hr><br>
 
+
 >## Image
 
 ![Image](https://cdn-tehran.wisgoon.com/dlir-s3/10531433403945520727.png "Logo Title Text 1")
@@ -108,6 +109,10 @@ echo "Hello World!";
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript
+
+<hr>
+
+# [Read: 02a - Learning Markdown](https://rawankh98.github.io/reading-notes/read6)
 
 
 
