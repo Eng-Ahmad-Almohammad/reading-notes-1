@@ -1,6 +1,5 @@
 # reading-notes
-## Growth Mindset 
-:brain:
+## Growth Mindset :brain:
 
 is when students understand that their abilities can be developed which mean that people are born with unique genetic structures, meaning they are initially better than others at different things. However, those with a growth mindset believe that one can always improve, catch up, or even surpass others’ natural talents.
 
@@ -35,7 +34,7 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 
 >## Table OF Content
 |Reads|Title|
-|----|----|
+|--------|--------|
 |Read1| [Introduction to Ubuntu](https://rawankh98.github.io/reading-notes/read1)|
 |Read2| [Introduction to Canvas](https://rawankh98.github.io/reading-notes/read2)|
 |Read3| [Introduction to Slack](https://rawankh98.github.io/reading-notes/read3)|
