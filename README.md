@@ -27,11 +27,6 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 
 <hr><br>
 
-# Introduction
-
-* Hello there, my name is rawan, am 23 years old, am freshly graduated from the hashemite university in major of software engineering.
-
-<br>
 
 
 >## Image
@@ -39,14 +34,7 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 ![Image](https://cdn-tehran.wisgoon.com/dlir-s3/10531433403945520727.png "Logo Title Text 1")
 <br><br>
 
->## Table OF Content
-|Reads|Title|
-|---------------|---------------|
-|Read1|[Introduction to Ubuntu](https://rawankh98.github.io/reading-notes/read1)|
-|Read2|[Introduction to Canvas](https://rawankh98.github.io/reading-notes/read2)|
-|Read3|[Introduction to Slack](https://rawankh98.github.io/reading-notes/read3)|
-|Read4|[Introduction to GitHub](https://rawankh98.github.io/reading-notes/read4)|
-|Read5|[Introduction to LTUC](https://rawankh98.github.io/reading-notes/read5)|
+
 
 
 
@@ -125,6 +113,8 @@ echo "Hello World!";
 <hr>
 
 # [Read: 02b -  Revisions and the Cloud](https://rawankh98.github.io/reading-notes/read7)
+
+# [Lab: 02b - Revisions and the Cloud](https://rawankh98.github.io/reading-notes/read8)
 
 
 
