@@ -1,9 +1,9 @@
 
 # Skim Reading 
 ## HTML Tags
-* <body>
-* <head>
-* <title>
+* body tag
+* head tag
+* title tag
 
 ## Create web page on pc
 
@@ -171,36 +171,36 @@ stopped many web page authors using them already.
 
 
 ### Headers & Footers
-* <header> <footer>
+* header, footer tags
 <img src="jh.jpg" alt="">
 
 
 ### Navigation
-* <nav>
+* nav tag
 <img src="lk.jpg" alt="">
 
 ### Articles
-* <article>
+* article tag
 <img src="article.jpg" alt="">
 
 
 ### ASIDES
-* <aside>
+* aside tag
 <img src="aside.jpg" alt="">
 
 
 ### Sections
-* <section>
+* section tag
 <img src="section.jpg" alt="">
 
 
 ### Heading Groups
-* <hgroup>
+* hgroup tag
 <img src="headinggroup.jpg" alt="">
 
 
 ### Figures
-* <figure> <figcaption>
+* figure, figcaption tags
 <img src="figures.jpg" alt="">
 
 
