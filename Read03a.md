@@ -1,4 +1,5 @@
 
+
 |#|Description|
 |---|---|
 |read1|Prerequisites Version Control|
@@ -7,7 +8,9 @@
 |read4|Workflow|
 |read5|Remote Repositories|
 
+
 * # Read1
+
 1. Local Version Control: A Local VCS entails one database on your hard disk that stores changes to files.
 
 2. Centralized Version Control: The need for collaboration within a developer team on a single file or set of files led to the advent of the Centralized Version Control System (CVCS). This system entails a single server storing all changes and file versions, which can be accessed by various clients. 
@@ -19,6 +22,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 
 
 * # Read2
+
 1. Download Git 
  For MacOs: [MacOs](http://git-scm.com/download/mac)
  For Windows: [Windows](https://desktop.github.com/)
@@ -44,6 +48,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 
 
 * # Read3
+
 1. Importing: To import an existing project or directory into Git.
    1. Switch to the target project’s directory.
    2. Use the git init command.[$ git init]
@@ -57,6 +62,7 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 
 
 * # Read4
+
 1. Local Repository Structure: The local Git repository has three components:
    1. Working Directory: The actual files reside here.
    2. Index: The area used for staging
@@ -84,7 +90,9 @@ All files: [$ git add *]
 8. Pushing Changes: Using Command [$ git push origin master]
 
 9. Stashing Changes: Using Command [git slash] [git slash apply]
+
 * # Read5
+
 1. Cloned Repositories: Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.
 
 2. Seeing Your Remote: 
