@@ -25,7 +25,8 @@
 
 |Reads|Title|
 |---|---|
-|Read1|[Growth mindset](https://rawankh98.github.io/reading-notes/rea)|
+|Read01a|[Growth mindset](https://rawankh98.github.io/reading-notes/read01a)|
 |Read02a|[learning markdown](https://rawankh98.github.io/reading-notes/read02a)|
-|Read02b|[Revision and cloud](https://rawankh98.github.io/reading-notes/read7)|
-|Read02b|[The coders computers](https://rawankh98.github.io/reading-notes/read02b)|
+|Read03a|[Revision and cloud](https://rawankh98.github.io/reading-notes/read03a)|
+|Read04a|[The coders computers](https://rawankh98.github.io/reading-notes/read04a)|
+|Read05a|[The coders computers](https://rawankh98.github.io/reading-notes/read05a)|
