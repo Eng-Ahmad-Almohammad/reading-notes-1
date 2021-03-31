@@ -86,16 +86,16 @@ Despite the fact that HTML5 is not yet completed, you can safely take advantage 
 <a>, <b>, <em>, and <img>.
 
 ### Grouping Text & Elements In a Block
-* <div>
+* div tag
 
 ### Grouping Text & Elements Inline
-* <span>
+* span tag
 
 ### IFrames
-* <iframe>
+* iframe tag
 
 ### Information About Your Pages
-*<meta>
+* meta tag
 
 ### Escape Characters
 Less-than sign
@@ -163,45 +163,45 @@ Division sign
 ## Summary of chapter 17
 ### Traditional HTML Layouts
 * For a long time, web page authors used <div> elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
-<img src="l.PNG" alt="">
+<img src="l.jpg" alt="">
 
 ### New Html5 Layout Elements
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not 
 stopped many web page authors using them already.
-<img src="lk.PNG" alt="">
+
 
 ### Headers & Footers
 * <header> <footer>
-<img src="jh.PNG" alt="">
+<img src="jh.jpg" alt="">
 
 
 ### Navigation
 * <nav>
-<img src="lk.PNG" alt="">
+<img src="lk.jpg" alt="">
 
 ### Articles
 * <article>
-<img src="article.PNG" alt="">
+<img src="article.jpg" alt="">
 
 
 ### ASIDES
 * <aside>
-<img src="aside.PNG" alt="">
+<img src="aside.jpg" alt="">
 
 
 ### Sections
 * <section>
-<img src="section.PNG" alt="">
+<img src="section.jpg" alt="">
 
 
 ### Heading Groups
 * <hgroup>
-<img src="headinggroup.PNG" alt="">
+<img src="headinggroup.jpg" alt="">
 
 
 ### Figures
 * <figure> <figcaption>
-<img src="figures.PNG" alt="">
+<img src="figures.jpg" alt="">
 
 
 ### Linking Around 
