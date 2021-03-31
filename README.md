@@ -114,6 +114,8 @@ echo "Hello World!";
 
 # [Read: 02b -  Revisions and the Cloud](https://rawankh98.github.io/reading-notes/read7)
 
+<hr>
+
 # [Lab: 02b - Revisions and the Cloud](https://rawankh98.github.io/reading-notes/read8)
 
 
