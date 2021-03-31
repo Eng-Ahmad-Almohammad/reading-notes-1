@@ -27,6 +27,12 @@ In \*growth mindset\*, people believe that their most basic abilities can be dev
 
 <hr><br>
 
+# Introduction
+
+* Hello there, my name is rawan, am 23 years old, am freshly graduated from the hashemite university in major of software engineering.
+
+<br>
+
 
 >## Image
 
