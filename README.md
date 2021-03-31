@@ -29,4 +29,4 @@
 |Read02a|[learning markdown](https://rawankh98.github.io/reading-notes/read02a)|
 |Read03a|[Revision and cloud](https://rawankh98.github.io/reading-notes/read03a)|
 |Read04a|[The coders computers](https://rawankh98.github.io/reading-notes/read04a)|
-|Read05a|[The coders computers](https://rawankh98.github.io/reading-notes/read05a)|
+|Read05a|[Structure web pages with HTML](https://rawankh98.github.io/reading-notes/read05a)|

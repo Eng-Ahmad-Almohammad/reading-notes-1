@@ -163,50 +163,50 @@ Division sign
 ## Summary of chapter 17
 ### Traditional HTML Layouts
 * For a long time, web page authors used <div> elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/l.PNG" alt="">
+<img src="l.PNG" alt="">
 
 ### New Html5 Layout Elements
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not 
 stopped many web page authors using them already.
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/lk.PNG" alt="">
+<img src="lk.PNG" alt="">
 
 ### Headers & Footers
 * <header> <footer>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/jh.PNG" alt="">
+<img src="jh.PNG" alt="">
 
 
 ### Navigation
 * <nav>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/lk.PNG" alt="">
+<img src="lk.PNG" alt="">
 
 ### Articles
 * <article>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/article.PNG" alt="">
+<img src="article.PNG" alt="">
 
 
 ### ASIDES
 * <aside>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/aside.PNG" alt="">
+<img src="aside.PNG" alt="">
 
 
 ### Sections
 * <section>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/section.PNG" alt="">
+<img src="section.PNG" alt="">
 
 
 ### Heading Groups
 * <hgroup>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/headinggroup.PNG" alt="">
+<img src="headinggroup.PNG" alt="">
 
 
 ### Figures
 * <figure> <figcaption>
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/figures.PNG" alt="">
+<img src="figures.PNG" alt="">
 
 
 ### Linking Around 
 * Block-Level Elements
-<img src="/mnt/c/Users/Lenovo/asac/reading-notes/linking.PNG" alt="">
+<img src="linking.png" alt="">
 
 
 ### HTML5 Layout Summary
