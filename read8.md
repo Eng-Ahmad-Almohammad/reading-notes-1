@@ -5,11 +5,3 @@
 <br>
 
 
->## Table OF Content
-|Reads|Title|
-|---|---|
-|Read1|[Introduction to Ubuntu](https://rawankh98.github.io/reading-notes/read1)|
-|Read2|[Introduction to Canvas](https://rawankh98.github.io/reading-notes/read2)|
-|Read3|[Introduction to Slack](https://rawankh98.github.io/reading-notes/read3)|
-|Read4|[Introduction to GitHub](https://rawankh98.github.io/reading-notes/read4)|
-|Read5|[Introduction to LTUC](https://rawankh98.github.io/reading-notes/read5)|
