@@ -3,9 +3,9 @@
 ## ACCESS CONTENT
 * You can use JavaScript to select any element, attribute, or text from an
 HTML page. For example:
-1- Select the text inside all of the <hl> elements on a page
-2- Select any elements that have a class attribute with a value of note
-3- Find out what was entered into a text input whose id attribute has a
+1. Select the text inside all of the <hl> elements on a page
+2. Select any elements that have a class attribute with a value of note
+3. Find out what was entered into a text input whose id attribute has a
 value of ema i 1.
 
 ## MODIFY CONTENT
@@ -62,10 +62,10 @@ For example, firstName rather than firstnarne (this is referred to as camel case
 * An array is a special type of variable. It doesn't just store one value; it stores a list of values. 
 
 ### CREATING AN ARRAY
-var colors;
-colors ['white', 'black', ' custom'];
-var el document.getElementByld('col ors');
-el . textContent = col ors[O]; 
+1. var colors;
+2. colors ['white', 'black', ' custom'];
+3. var el document.getElementByld('col ors');
+4. el . textContent = col ors[O]; 
 
 ### EXPRESSIONS
 1. EXPRESSIONS THAT JUST ASSIGN VALUE TO A VARIABLE.
@@ -76,9 +76,9 @@ var area = 3 * 2;
 ### OPERATORS
 * Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
 Examples:
-color = 'beige'; 
-area = 3 * 2;
-buy = (5 > 3) && (2 < 4);
+1. color = 'beige'; 
+2. area = 3 * 2;
+3. buy = (5 > 3) && (2 < 4);
 
 # WHAT IS A FUNCTION? 
 * Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
