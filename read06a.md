@@ -84,7 +84,7 @@ buy = (5 > 3) && (2 < 4);
 * Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
 ## A BASIC FUNCTION 
-* <img src="Capture.png" alt="">
+* <img src="Capture.jpg" alt="">
 
 ## DECLARING A FUNCTION
 * function sayHello() {
