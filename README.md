@@ -31,3 +31,4 @@
 |Read04a|[The coders computers](https://rawankh98.github.io/reading-notes/read04a)|
 |Read05a|[Structure web pages with HTML](https://rawankh98.github.io/reading-notes/read05a)|
 |Read06a|[Programming with JavaScript](https://rawankh98.github.io/reading-notes/read06a)|
+|Read07a|[Operators and Loops](https://rawankh98.github.io/reading-notes/read07a)|
